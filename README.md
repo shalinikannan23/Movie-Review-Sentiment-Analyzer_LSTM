@@ -1,5 +1,7 @@
 # 🎬 IMDB Movie Review Sentiment Analyzer
 
+LIVE : https://moviereview-sentiment-analyzer.streamlit.app/
+
 This project is an **End-to-End Sentiment Analysis Pipeline** built using **PyTorch (Deep Learning)** and deployed through **Streamlit** as an interactive web app.  
 The model classifies movie reviews from the IMDB dataset into **Positive** or **Negative** sentiments.
 
